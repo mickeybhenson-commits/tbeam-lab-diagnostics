@@ -1,0 +1,6 @@
+# This prevents your secrets from being tracked by Git
+.streamlit/secrets.toml
+
+# Ignore local Python cache
+__pycache__/
+*.pyc
